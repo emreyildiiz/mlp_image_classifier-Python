@@ -1,0 +1,18 @@
+Bu programın çalışmadan önce ilgili kütüphanelere ihtiyacı vardır.
+İlgili kütüphanelerin kurulumu için komut istemcisine:
+
+pip install numpy
+
+pip install opencv
+
+pip install --upgrade pip
+
+pip install tensorflow
+
+pip install keras
+
+pip install keras_preprocessing
+
+pip install matplotlib
+
+
